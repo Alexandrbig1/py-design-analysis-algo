@@ -1,0 +1,9 @@
+BTrees==6.1
+cffi==1.17.1
+networkx==3.4.2
+persistent==6.1.1
+pycparser==2.22
+setuptools==80.0.0
+zope.deferredimport==5.0
+zope.interface==7.2
+zope.proxy==6.1
