@@ -5,6 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/py-design-analysis-algo)](https://github.com/Alexandrbig1/py-design-analysis-algo/commits/main)
 [![GitHub license](https://img.shields.io/github/license/Alexandrbig1/py-design-analysis-algo)](https://github.com/Alexandrbig1/py-design-analysis-algo/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 
 This repository is a continuation of my previous project on fundamental algorithms and data structures. While the earlier repo focused on core algorithmic concepts, this one dives deeper into advanced topics in the design and analysis of algorithms using Python.
 
@@ -43,13 +44,16 @@ The code is organized by topic in the `src/` directory:
 
 ```
 src/
-  algo1/  # Divide and conquer, selection algorithms
-  algo2/  # Greedy algorithms, dynamic programming
-  algo3/  # Graphs, trees, and advanced data structures
-  algo4/  # Prefix trees (tries) and string algorithms
-  algo5/  # Big data algorithms: Bloom filter, HyperLogLog
-  algo6/  # MapReduce, parallel and distributed algorithms
-  algo7/  # Caching, optimization, and performance analysis
+  algo1/   # Divide and conquer, selection algorithms
+  algo2/   # Greedy algorithms, dynamic programming
+  algo3/   # Graphs, trees, and advanced data structures
+  algo4/   # Prefix trees (tries) and string algorithms
+  algo5/   # Big data algorithms: Bloom filter, HyperLogLog
+  algo6/   # MapReduce, parallel and distributed algorithms
+  algo7/   # Caching, optimization, and performance analysis
+  algo8/   # Gradient descent, heuristics, and simulated annealing
+  algo9/   # Algorithmic complexity, approximation, and randomized algorithms
+  algo10/  # Special topics and advanced algorithmic techniques
 ```
 
 Each module contains Python scripts with clear implementations and explanations.
